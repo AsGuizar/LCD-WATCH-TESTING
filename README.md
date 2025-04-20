@@ -29,15 +29,12 @@ Después abre tu navegador en `http://localhost:3000`.
 Contribuciones
 --------------
 
-- Seguimiento de errores: github.com/tu_usuario/tu_repositorio/issues
-- Código fuente: github.com/tu_usuario/tu_repositorio
+- Seguimiento de errores: https://github.com/AsGuizar/LCD-WATCH-TESTING/issues
+- Código fuente: https://github.com/AsGuizar/LCD-WATCH-TESTING 
 
 Soporte
 -------
 
 Si encuentras algún problema o deseas contribuir, puedes escribirnos o abrir un issue directamente en GitHub.
 
-Licencia
---------
 
-Este proyecto está licenciado bajo la licencia MIT.
