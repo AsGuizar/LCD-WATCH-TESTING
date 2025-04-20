@@ -22,7 +22,7 @@ Instala CareGuardian-IMU ejecutando:
     git clone https://github.com/AsGuizar/LCD-WATCH-TESTING.git
     cd LCD-WATCH-TESTING
     npm install
-    node index.js
+    node server.js
 
 
 Después abre tu navegador en `http://localhost:3000`.
